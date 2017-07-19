@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/menu/global.xml",
+        "source": "/Users/irwin/Desktop/StudyTimer/app/src/main/res/menu/global.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/menu/apps.xml",
+        "source": "/Users/irwin/Desktop/StudyTimer/app/src/main/res/menu/apps.xml"
+    }
+]

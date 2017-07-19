@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_important.png",
+        "source": "/Users/irwin/Desktop/StudyTimer/app/src/main/res/drawable-hdpi/ic_action_important.png"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_refresh.png",
+        "source": "/Users/irwin/Desktop/StudyTimer/app/src/main/res/drawable-hdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable-hdpi/pattern_button_untouched.png",
+        "source": "/Users/irwin/Desktop/StudyTimer/app/src/main/res/drawable-hdpi/pattern_button_untouched.png"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable-hdpi/pattern_btn_touched.png",
+        "source": "/Users/irwin/Desktop/StudyTimer/app/src/main/res/drawable-hdpi/pattern_btn_touched.png"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable-hdpi/drawer_shadow.9.png",
+        "source": "/Users/irwin/Desktop/StudyTimer/app/src/main/res/drawable-hdpi/drawer_shadow.9.png"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_accept.png",
+        "source": "/Users/irwin/Desktop/StudyTimer/app/src/main/res/drawable-hdpi/ic_action_accept.png"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable-hdpi/pattern_circle_green.png",
+        "source": "/Users/irwin/Desktop/StudyTimer/app/src/main/res/drawable-hdpi/pattern_circle_green.png"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_secure.png",
+        "source": "/Users/irwin/Desktop/StudyTimer/app/src/main/res/drawable-hdpi/ic_action_secure.png"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_cancel.png",
+        "source": "/Users/irwin/Desktop/StudyTimer/app/src/main/res/drawable-hdpi/ic_action_cancel.png"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_search.png",
+        "source": "/Users/irwin/Desktop/StudyTimer/app/src/main/res/drawable-hdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_secure_holo_light.png",
+        "source": "/Users/irwin/Desktop/StudyTimer/app/src/main/res/drawable-hdpi/ic_action_secure_holo_light.png"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable-hdpi/pattern_circle_blue.png",
+        "source": "/Users/irwin/Desktop/StudyTimer/app/src/main/res/drawable-hdpi/pattern_circle_blue.png"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_share.png",
+        "source": "/Users/irwin/Desktop/StudyTimer/app/src/main/res/drawable-hdpi/ic_action_share.png"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable-hdpi/pattern_circle_white.png",
+        "source": "/Users/irwin/Desktop/StudyTimer/app/src/main/res/drawable-hdpi/pattern_circle_white.png"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_drawer.png",
+        "source": "/Users/irwin/Desktop/StudyTimer/app/src/main/res/drawable-hdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_not_secure.png",
+        "source": "/Users/irwin/Desktop/StudyTimer/app/src/main/res/drawable-hdpi/ic_action_not_secure.png"
+    }
+]

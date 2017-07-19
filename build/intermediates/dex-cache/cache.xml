@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/irwin/.android/build-cache/0aa61e19a86c7ee48d74878c2cb9e2a1658cefcd/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/irwin/Desktop/StudyTimer/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_64312e5953152edb49bfa75bb8d8f28edc55f437.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/irwin/.android/build-cache/10afa65bfb4bb5b8b1c07ea85c02786062548bc6/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/irwin/Desktop/StudyTimer/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_8337258a59e9a9bbb86f504a0a2d7b0d44a475c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/irwin/.android/build-cache/df1ec50a3a677800512e19cb7abfd20ae2121fe5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/irwin/Desktop/StudyTimer/app/build/intermediates/pre-dexed/debug/classes_3fef7886f0fd2c0c05425eaa664f0858055fee3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/irwin/.android/build-cache/d138a228149fc790a2408919813c754c454de9dc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/irwin/Desktop/StudyTimer/app/build/intermediates/pre-dexed/debug/classes_75b2f539e70de0d066ebf581e8bdb0b0328967c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/irwin/.android/build-cache/932460253217314194395aa65ad487474e0a393b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/irwin/Desktop/StudyTimer/app/build/intermediates/pre-dexed/debug/classes_5b1362f243d94f8600e5cca8648d0703dfb0f560.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/irwin/.android/build-cache/df1ec50a3a677800512e19cb7abfd20ae2121fe5/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/irwin/Desktop/StudyTimer/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_a3bd80464a6e3896761480b7b6647c46c0d1aa94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/irwin/.android/build-cache/d5ae50ba43b653c07c03dd1f50d9d9d51e0c60ec/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/irwin/Desktop/StudyTimer/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_684ea68a9e7890caa81413d10386f274d2b2a0e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/irwin/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/irwin/Desktop/StudyTimer/app/build/intermediates/pre-dexed/debug/gson-2.7_5fc6c18323ffa5bcd4cf20d4deac9b98cffbd719.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/irwin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/irwin/Desktop/StudyTimer/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_d1c8f59a67b07e20ccd12329940c97f4ae7fc9cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/irwin/.android/build-cache/49c853527f54b9513508404c573b1df721c8184a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/irwin/Desktop/StudyTimer/app/build/intermediates/pre-dexed/debug/classes_86786dcc1a6d5dbde408ddad457cfed0fe26afd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/irwin/.android/build-cache/0aa61e19a86c7ee48d74878c2cb9e2a1658cefcd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/irwin/Desktop/StudyTimer/app/build/intermediates/pre-dexed/debug/classes_b4883c091a9c5c7444273b0f19aefec7b9aa6a01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/irwin/.android/build-cache/10afa65bfb4bb5b8b1c07ea85c02786062548bc6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/irwin/Desktop/StudyTimer/app/build/intermediates/pre-dexed/debug/classes_d0e0e250ca5254a0d69b0e88755412beaee6e036.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/irwin/.android/build-cache/aacccb57ed30380bd197a40adf7adf233126f999/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/irwin/Desktop/StudyTimer/app/build/intermediates/pre-dexed/debug/classes_2e7321febf40146034f587e0be8a93a19902f0ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/irwin/.android/build-cache/3b000e9955b49ee72fa642e8a8c87135e6a117a8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/irwin/Desktop/StudyTimer/app/build/intermediates/pre-dexed/debug/classes_7dc265ad1ef57afd0ad6fec78a3d67378a0e935c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/irwin/.android/build-cache/d5ae50ba43b653c07c03dd1f50d9d9d51e0c60ec/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/irwin/Desktop/StudyTimer/app/build/intermediates/pre-dexed/debug/classes_c2178897cd226bd10d4678d598f6906696014106.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/irwin/.android/build-cache/aacccb57ed30380bd197a40adf7adf233126f999/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/irwin/Desktop/StudyTimer/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_bb68cac39b24fbc81631c39f6c42578be62e2a65.jar" />
+    </item>
+
+</items>

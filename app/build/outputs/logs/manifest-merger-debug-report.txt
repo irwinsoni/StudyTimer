@@ -1,0 +1,167 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:2:1-105:12
+	package
+		ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.0.0] /Users/irwin/.android/build-cache/49c853527f54b9513508404c573b1df721c8184a/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.0.0] /Users/irwin/.android/build-cache/3b000e9955b49ee72fa642e8a8c87135e6a117a8/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.0] /Users/irwin/.android/build-cache/10afa65bfb4bb5b8b1c07ea85c02786062548bc6/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.0] /Users/irwin/.android/build-cache/df1ec50a3a677800512e19cb7abfd20ae2121fe5/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.0] /Users/irwin/.android/build-cache/0aa61e19a86c7ee48d74878c2cb9e2a1658cefcd/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.0] /Users/irwin/.android/build-cache/aacccb57ed30380bd197a40adf7adf233126f999/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /Users/irwin/.android/build-cache/d138a228149fc790a2408919813c754c454de9dc/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /Users/irwin/.android/build-cache/932460253217314194395aa65ad487474e0a393b/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.0.0] /Users/irwin/.android/build-cache/d5ae50ba43b653c07c03dd1f50d9d9d51e0c60ec/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.0.0] /Users/irwin/.android/build-cache/49c853527f54b9513508404c573b1df721c8184a/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:11:5-15:39
+	android:largeScreens
+		ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:13:9-36
+	android:smallScreens
+		ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:15:9-36
+	android:normalScreens
+		ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:14:9-37
+	android:anyDensity
+		ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:12:9-34
+uses-permission#android.permission.GET_TASKS
+ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:34:5-68
+	android:name
+		ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:34:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:35:5-66
+	android:name
+		ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:35:22-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:36:5-81
+	android:name
+		ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:36:22-78
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:48:5-78
+	android:name
+		ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:48:22-75
+application
+ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:51:5-104:19
+MERGED from [com.android.support:appcompat-v7:25.0.0] /Users/irwin/.android/build-cache/49c853527f54b9513508404c573b1df721c8184a/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.0] /Users/irwin/.android/build-cache/3b000e9955b49ee72fa642e8a8c87135e6a117a8/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] /Users/irwin/.android/build-cache/10afa65bfb4bb5b8b1c07ea85c02786062548bc6/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] /Users/irwin/.android/build-cache/df1ec50a3a677800512e19cb7abfd20ae2121fe5/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] /Users/irwin/.android/build-cache/0aa61e19a86c7ee48d74878c2cb9e2a1658cefcd/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] /Users/irwin/.android/build-cache/aacccb57ed30380bd197a40adf7adf233126f999/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /Users/irwin/.android/build-cache/d138a228149fc790a2408919813c754c454de9dc/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /Users/irwin/.android/build-cache/932460253217314194395aa65ad487474e0a393b/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.0.0] /Users/irwin/.android/build-cache/d5ae50ba43b653c07c03dd1f50d9d9d51e0c60ec/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:54:9-49
+	android:allowBackup
+		ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:52:9-36
+	android:icon
+		ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:53:9-43
+	android:theme
+		ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:55:9-40
+activity#com.study.timer.lock.locker.ui.MainActivity
+ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:57:9-67:20
+	android:label
+		ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:61:13-53
+	android:excludeFromRecents
+		ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:60:13-46
+	android:configChanges
+		ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:59:13-59
+	android:theme
+		ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:62:13-71
+	android:name
+		ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:58:13-71
+intent-filter#android.intent.action.MAIN+android.intent.action.SEARCH
+ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:63:13-66:29
+action#android.intent.action.MAIN
+ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:64:17-69
+	android:name
+		ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:64:25-66
+action#android.intent.action.SEARCH
+ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:65:17-71
+	android:name
+		ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:65:25-68
+activity-alias#com.twinone.locker.MainActivityAlias
+ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:69:9-78:26
+	android:enabled
+		ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:71:13-35
+	android:label
+		ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:72:13-53
+	android:targetActivity
+		ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:73:13-81
+	android:name
+		ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:70:13-64
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:74:13-77:29
+category#android.intent.category.LAUNCHER
+ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:76:17-77
+	android:name
+		ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:76:27-74
+service#com.study.timer.lock.locker.lock.AppLockService
+ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:80:9-83
+	android:name
+		ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:80:18-80
+service#com.study.timer.lock.locker.lock.LockService
+ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:81:9-80
+	android:name
+		ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:81:18-77
+service#com.study.timer.lock.locker.lock.HelperService
+ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:82:9-82
+	android:name
+		ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:82:18-79
+receiver#com.study.timer.lock.locker.receivers.OutgoingCallReceiver
+ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:84:9-88:20
+	android:name
+		ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:84:19-92
+intent-filter#android.intent.action.NEW_OUTGOING_CALL
+ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:85:13-87:29
+action#android.intent.action.NEW_OUTGOING_CALL
+ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:86:17-82
+	android:name
+		ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:86:25-79
+receiver#com.study.timer.lock.locker.receivers.BootCompleteReceiver
+ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:89:9-93:20
+	android:name
+		ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:89:19-92
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:90:13-92:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:91:17-79
+	android:name
+		ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:91:25-76
+receiver#com.study.timer.lock.locker.receivers.NetworkStateReceiver
+ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:94:9-98:20
+	android:name
+		ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:94:19-92
+intent-filter#android.net.wifi.STATE_CHANGE
+ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:95:13-97:29
+action#android.net.wifi.STATE_CHANGE
+ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:96:17-72
+	android:name
+		ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:96:25-69
+receiver#com.study.timer.lock.locker.version.Receiver
+ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:99:9-103:20
+	android:name
+		ADDED from /Users/irwin/Desktop/StudyTimer/app/src/main/AndroidManifest.xml:99:19-78

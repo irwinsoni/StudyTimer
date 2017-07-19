@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/locker_overlay.xml",
+        "source": "/Users/irwin/Desktop/StudyTimer/app/src/main/res/drawable/locker_overlay.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/irwin/.android/build-cache/49c853527f54b9513508404c573b1df721c8184a/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/irwin/.android/build-cache/49c853527f54b9513508404c573b1df721c8184a/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/irwin/.android/build-cache/49c853527f54b9513508404c573b1df721c8184a/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/irwin/.android/build-cache/49c853527f54b9513508404c573b1df721c8184a/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/irwin/.android/build-cache/49c853527f54b9513508404c573b1df721c8184a/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/switch_background.xml",
+        "source": "/Users/irwin/Desktop/StudyTimer/app/src/main/res/drawable/switch_background.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/irwin/.android/build-cache/49c853527f54b9513508404c573b1df721c8184a/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/irwin/.android/build-cache/49c853527f54b9513508404c573b1df721c8184a/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/switch_off_bg.xml",
+        "source": "/Users/irwin/Desktop/StudyTimer/app/src/main/res/drawable/switch_off_bg.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/irwin/.android/build-cache/49c853527f54b9513508404c573b1df721c8184a/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/irwin/.android/build-cache/49c853527f54b9513508404c573b1df721c8184a/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/irwin/.android/build-cache/49c853527f54b9513508404c573b1df721c8184a/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/irwin/.android/build-cache/49c853527f54b9513508404c573b1df721c8184a/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/irwin/.android/build-cache/49c853527f54b9513508404c573b1df721c8184a/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/main_textview_state.xml",
+        "source": "/Users/irwin/Desktop/StudyTimer/app/src/main/res/drawable/main_textview_state.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/main_button_background.xml",
+        "source": "/Users/irwin/Desktop/StudyTimer/app/src/main/res/drawable/main_button_background.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/applist_button_background.xml",
+        "source": "/Users/irwin/Desktop/StudyTimer/app/src/main/res/drawable/applist_button_background.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/irwin/.android/build-cache/49c853527f54b9513508404c573b1df721c8184a/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/irwin/.android/build-cache/49c853527f54b9513508404c573b1df721c8184a/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/passwordview_button_background.xml",
+        "source": "/Users/irwin/Desktop/StudyTimer/app/src/main/res/drawable/passwordview_button_background.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/irwin/.android/build-cache/49c853527f54b9513508404c573b1df721c8184a/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/irwin/.android/build-cache/49c853527f54b9513508404c573b1df721c8184a/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/irwin/.android/build-cache/49c853527f54b9513508404c573b1df721c8184a/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/irwin/.android/build-cache/49c853527f54b9513508404c573b1df721c8184a/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/irwin/.android/build-cache/49c853527f54b9513508404c573b1df721c8184a/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/switch_track.xml",
+        "source": "/Users/irwin/Desktop/StudyTimer/app/src/main/res/drawable/switch_track.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/irwin/.android/build-cache/49c853527f54b9513508404c573b1df721c8184a/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/item_not_selected.xml",
+        "source": "/Users/irwin/Desktop/StudyTimer/app/src/main/res/drawable/item_not_selected.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/irwin/.android/build-cache/49c853527f54b9513508404c573b1df721c8184a/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/irwin/.android/build-cache/49c853527f54b9513508404c573b1df721c8184a/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/irwin/.android/build-cache/49c853527f54b9513508404c573b1df721c8184a/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/locker_default_background.xml",
+        "source": "/Users/irwin/Desktop/StudyTimer/app/src/main/res/drawable/locker_default_background.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/switch_on_bg.xml",
+        "source": "/Users/irwin/Desktop/StudyTimer/app/src/main/res/drawable/switch_on_bg.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/lock_icon.png",
+        "source": "/Users/irwin/Desktop/StudyTimer/app/src/main/res/drawable/lock_icon.png"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/irwin/.android/build-cache/49c853527f54b9513508404c573b1df721c8184a/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/irwin/.android/build-cache/49c853527f54b9513508404c573b1df721c8184a/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/item_selected.xml",
+        "source": "/Users/irwin/Desktop/StudyTimer/app/src/main/res/drawable/item_selected.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/irwin/.android/build-cache/49c853527f54b9513508404c573b1df721c8184a/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/irwin/.android/build-cache/49c853527f54b9513508404c573b1df721c8184a/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/irwin/.android/build-cache/49c853527f54b9513508404c573b1df721c8184a/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/irwin/.android/build-cache/49c853527f54b9513508404c573b1df721c8184a/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/irwin/.android/build-cache/49c853527f54b9513508404c573b1df721c8184a/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/irwin/.android/build-cache/49c853527f54b9513508404c573b1df721c8184a/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/irwin/.android/build-cache/49c853527f54b9513508404c573b1df721c8184a/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/irwin/.android/build-cache/49c853527f54b9513508404c573b1df721c8184a/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/irwin/.android/build-cache/49c853527f54b9513508404c573b1df721c8184a/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/main_default_background.xml",
+        "source": "/Users/irwin/Desktop/StudyTimer/app/src/main/res/drawable/main_default_background.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/irwin/.android/build-cache/49c853527f54b9513508404c573b1df721c8184a/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/separator.xml",
+        "source": "/Users/irwin/Desktop/StudyTimer/app/src/main/res/drawable/separator.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/irwin/.android/build-cache/49c853527f54b9513508404c573b1df721c8184a/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/irwin/.android/build-cache/49c853527f54b9513508404c573b1df721c8184a/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/irwin/.android/build-cache/49c853527f54b9513508404c573b1df721c8184a/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/irwin/Desktop/StudyTimer/app/build/intermediates/res/merged/debug/drawable/locker_overlay_stroke.xml",
+        "source": "/Users/irwin/Desktop/StudyTimer/app/src/main/res/drawable/locker_overlay_stroke.xml"
+    }
+]
